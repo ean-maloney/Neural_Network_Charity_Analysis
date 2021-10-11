@@ -1,5 +1,5 @@
 # Neural_Network_Charity_Analysis
-In this project, I attempt to identify charitable projects which should and should not receive donations from a hypothetical donor using neural networks. 
+In this project, I attempt to identify charitable projects which should and should not receive donations from a hypothetical donor using neural networks. My best model successfully labeled about 70% of test cases as successful or unsuccessful. 
 
 Preprocessing steps include binning and encoding of categorical data and feature selection and made use of pandas and sklearn libraries. The model was constructed using Python's tensorflow and keras libraries. 
 
